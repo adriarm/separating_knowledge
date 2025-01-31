@@ -1,0 +1,9 @@
+[submodule "shaders21k"]
+	path = shaders21k
+	url = https://github.com/mbaradad/shaders21k
+[submodule "my_python_utils"]
+	path = my_python_utils
+	url = https://github.com/mbaradad/my_python_utils
+[submodule "learning_with_noise"]
+	path = learning_with_noise
+	url = git@github.com:mbaradad/learning_with_noise.git
