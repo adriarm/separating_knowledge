@@ -2,6 +2,14 @@
 
 Welcome to the repository for "Fully compartmentalizing visual memory perception with procedural data"! Here are the instructions for reproducing all trainings and evaluations in the paper.
 
+<p align="center">
+  <img width="100%" src="https://adriarm.github.io/_pages/fullvm/images/teaser_v6.png">
+</p>
+
+[[Project page](https://adriarm.github.io/_pages/fullvm/)] 
+[[Paper](https://arxiv.org/abs/)]
+
+
 # Creating environment
 ```
 conda create -n fullvm python=3.9.20
