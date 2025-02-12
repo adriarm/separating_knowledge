@@ -3,7 +3,7 @@
 Welcome to the repository for "Fully compartmentalizing visual memory perception with procedural data"! Here are the instructions for reproducing all trainings and evaluations in the paper.
 
 <p align="center">
-  <img width="100%" src="https://adriarm.github.io/_pages/fullvm/images/teaser_v6.png">
+  <img width="100%" src="https://adriarm.github.io/_pages/fullvm/static/images/teaser_v7.png">
 </p>
 
 [[Project page](https://adriarm.github.io/_pages/fullvm/)] 
