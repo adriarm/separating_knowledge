@@ -1,6 +1,6 @@
-# Fully compartmentalizing visual memory perception with procedural data
+# Compartmentalizing Knowledge with Procedural Data
 
-Welcome to the repository for "Fully compartmentalizing visual memory perception with procedural data"! Here are the instructions for reproducing all trainings and evaluations in the paper.
+Welcome to the repository for "Compartmentalizing Knowledge with Procedural Data"! Here are the instructions for reproducing all trainings and evaluations in the paper.
 
 <p align="center">
   <img width="100%" src="https://adriarm.github.io/_pages/fullvm/static/images/teaser_v7.png">
