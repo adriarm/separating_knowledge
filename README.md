@@ -1,4 +1,4 @@
-# Compartmentalizing Knowledge with Procedural Data
+# Separating Knowledge and Perception with Procedural Data
 
 Welcome to the repository for "Compartmentalizing Knowledge with Procedural Data"! Here are the instructions for reproducing all trainings and evaluations in the paper.
 
