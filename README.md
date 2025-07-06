@@ -1,6 +1,6 @@
 # Separating Knowledge and Perception with Procedural Data
 
-Welcome to the repository for "Compartmentalizing Knowledge with Procedural Data"! Here are the instructions for reproducing all trainings and evaluations in the paper.
+Welcome to the repository for "Separating Knowledge with Procedural Data"! Here are the instructions for reproducing all trainings and evaluations in the paper.
 
 <p align="center">
   <img width="100%" src="https://adriarm.github.io/_pages/compartmentalizing_knowledge/static/images/teaser_v7.png">
