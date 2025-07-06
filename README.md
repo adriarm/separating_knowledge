@@ -12,8 +12,8 @@ Welcome to the repository for "Compartmentalizing Knowledge with Procedural Data
 
 # Creating environment
 ```
-conda create -n fullvm python=3.9.20
-conda activate fullvm
+conda create -n separating_knowledge python=3.9.20
+conda activate separating_knowledge
 pip install torch==2.4.1 torchaudio==2.4.1 torchvision==0.19.1
 pip install importlib-metadata
 pip install opencv-python
