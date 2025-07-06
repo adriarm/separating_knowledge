@@ -3,7 +3,7 @@
 Welcome to the repository for "Separating Knowledge with Procedural Data"! Here are the instructions for reproducing all trainings and evaluations in the paper.
 
 <p align="center">
-  <img width="100%" src="https://adriarm.github.io/_pages/separating_knowledge/static/figures_poster/diagram.pdf">
+  <img width="100%" src="https://adriarm.github.io/_pages/separating_knowledge/static/figures_poster/diagram.png">
 </p>
 
 [[Project page](https://adriarm.github.io/_pages/fullvm/)] 
