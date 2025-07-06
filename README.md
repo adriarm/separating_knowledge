@@ -6,7 +6,7 @@ Welcome to the repository for "Separating Knowledge with Procedural Data"! Here 
   <img width="100%" src="https://adriarm.github.io/_pages/separating_knowledge/static/figures_poster/diagram_small.png">
 </p>
 
-[[Project page](https://adriarm.github.io/_pages/fullvm/)] 
+[[Project page](https://adriarm.github.io/_pages/separating_knowledge/)] 
 [[Paper](https://arxiv.org/abs/)]
 
 
